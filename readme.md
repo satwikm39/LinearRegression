@@ -1,1 +1,2 @@
-# Linear Regression
+# Linear Regression 
+## Univariate and MultiVariate
